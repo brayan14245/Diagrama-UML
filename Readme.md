@@ -80,7 +80,7 @@ Solo necesitas conocimientos básicos en programación y disposición para traba
 
 | Evidencia | Descripción | Tipo | Peso |
 |------------|--------------|------|------|
-| **Taller 1 – Diagramas UML** | Modelado de clases y relaciones | Grupal | 20% |
+| **Taller 1 – Diagramas UML** | Modelado de clases y relaciones | Individual | 20% |
 | **Taller 2 – POO** | Fundamentos y pilares en UML | Grupal | 20% |
 | **Examen Parcial ABP/ABPy** | Modelado de un caso real | Individual  | 20% |
 | **Proyecto Final** | Sistema completo con patrones de diseño | Individual / Grupal | 20% |
