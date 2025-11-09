@@ -24,14 +24,22 @@ public class Administrador extends Usuario {
 
     public void eliminarNota()
     {
-        System.out.println("Eliminando nota...");
+        System.out.println("Administrador " + getNombre() + "Eliminando nota...");
     }
-    public void crearNota()
-    {
-        System.out.println("Creando nota...");
+     public void crearNota() {
+        System.out.println("Administrador " + getNombre() + " creando nota...");
     }
-
-
-
+    
+    public void agregarUsuarios() {
+        System.out.println("Administrador " + getNombre() + " agregando usuarios...");
+    }
+    
+    public void eliminarUsuario() {
+        System.out.println("Administrador " + getNombre() + " eliminando usuario...");
+    }
+    
+    public void verListaUsuarios() {
+        System.out.println("Administrador " + getNombre() + " viendo lista de usuarios...");
+    }
     
 }
